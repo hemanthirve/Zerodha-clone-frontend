@@ -1,7 +1,8 @@
 import React from 'react'
+import Hero from './Hero';
 function Signup() {
     return ( 
-        <h1>Signup</h1>
+        <Hero/>
      );
 }
 

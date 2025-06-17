@@ -4,7 +4,7 @@ import { Link }  from "react-router-dom";
 const Navbar = () => {
   return (
 
-      <nav class="navbar navbar-expand-lg border-bottom" style={{backgroundColor: "#FFF"}}>
+      <nav class="navbar navbar-expand-lg border-bottom fixed-top" style={{backgroundColor: "#FFF"}}>
         <div class="container p-2">
           <button
             class="navbar-toggler"

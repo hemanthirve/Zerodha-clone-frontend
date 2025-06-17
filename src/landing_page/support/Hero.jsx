@@ -1,7 +1,7 @@
 import React from "react";
 function Hero() {
   return (
-    <div className="container-fluid" id="supportHero">
+    <div className="container-fluid mt-5" id="supportHero">
       <div className="p-5" id="supportWrapper">
         <h4>Support Portal</h4>
         <a href="">Track Tickets</a>
