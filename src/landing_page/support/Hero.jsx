@@ -4,10 +4,10 @@ function Hero() {
     <div className="container-fluid mt-5" id="supportHero">
       <div className="p-5" id="supportWrapper">
         <h4>Support Portal</h4>
-        <a href="">Track Tickets</a>
+        <button className="btn-a">Track Tickets</button>
       </div>
 
-      <div className="row p-5 m-3 ">
+      <div clbuttonssName="row p-5 m-3 ">
         <div className="col-6 p-5">
           <h1 className="fs-3">
             Search for an answer or browse help topics to create a ticket
@@ -17,10 +17,10 @@ function Hero() {
             placeholder="Eg. how do I activate F&O, why is my order getting rejected" 
           />
           <br />
-          <a href="">Track account opening</a>&nbsp;&nbsp;
-          <a href="">Track segment activation</a>&nbsp;&nbsp;
-          <a href="">Intraday margins</a>&nbsp;&nbsp;
-          <a href="">Kite user manual</a>&nbsp;&nbsp;
+          <button className="btn-a">Track account opening</button>&nbsp;&nbsp;
+          <button className="btn-a">Track segment activation</button>&nbsp;&nbsp;
+          <button className="btn-a">Intraday margins</button>&nbsp;&nbsp;
+          <button className="btn-a">Kite user manual</button>&nbsp;&nbsp;
         </div>
 
         
@@ -28,10 +28,10 @@ function Hero() {
         <h1 className="fs-3">Featured</h1>
         <ol>
           <li>
-            <a href="">Current Takeovers and Delisting - January 2024</a>
+            <button className="btn-a">Current Takeovers and Delisting - January 2024</button>
           </li>
           <li>
-            <a href="">Latest Intraday leverages - MIS & CO</a>
+            <button className="btn-a">Latest Intraday leverages - MIS & CO</button>
           </li>
         </ol>
         </div>

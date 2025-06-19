@@ -37,7 +37,7 @@ function Hero() {
           </p>
 
           <p>
-           <a href="" style={{textDecoration: "none"}}>Rainmatter</a> , our fintech fund and incubator, has invested in several
+           <button className="btn-a" style={{textDecoration: "none"}}>Rainmatter</button> , our fintech fund and incubator, has invested in several
             fintech startups with the goal of growing the Indian capital
             markets.
           </p>

@@ -1,4 +1,5 @@
 import React from 'react'
+import "../App.css"
 function Footer() {
     return ( 
         <footer style={{backgroundColor: "rgb(250, 250, 250)"}}>
@@ -10,31 +11,31 @@ function Footer() {
                 </div>
                 <div className="col">
                     <p>Company</p>
-                    <a href="##" className='text-muted' style={{textDecoration:"none"}}>About</a><br />
-                    <a href="##" className='text-muted' style={{textDecoration:"none"}}>Products</a><br />
-                    <a href="##" className='text-muted' style={{textDecoration:"none"}}>Pricing</a><br />
-                    <a href="##" className='text-muted' style={{textDecoration:"none"}}>Referral programme</a><br />
-                    <a href="##" className='text-muted' style={{textDecoration:"none"}}>Careers</a><br />
-                    <a href="##" className='text-muted' style={{textDecoration:"none"}}>Zerodha.tech</a> <br />
-                    <a href="##" className='text-muted' style={{textDecoration:"none"}}>Press & media </a><br />
-                   <a href="##" className='text-muted' style={{textDecoration:"none"}}> Zerodha cares (CSR)</a><br />
+                    <button className='text-muted btn-a' style={{textDecoration:"none"}}>About</button><br />
+                    <button className='text-muted btn-a' style={{textDecoration:"none"}}>Products</button><br />
+                    <button className='text-muted btn-a' style={{textDecoration:"none"}}>Pricing</button><br />
+                    <button className='text-muted btn-a' style={{textDecoration:"none"}}>Referral programme</button><br />
+                    <button className='text-muted btn-a' style={{textDecoration:"none"}}>Careers</button><br />
+                    <button className='text-muted btn-a' style={{textDecoration:"none"}}>Zerodha.tech</button> <br />
+                    <button className='text-muted btn-a' style={{textDecoration:"none"}}>Press & media </button><br />
+                   <button className='text-muted btn-a' style={{textDecoration:"none"}}> Zerodha cares (CSR)</button><br />
                 </div>
                 <div className="col">
                     <p>Support</p>
 
-                    <a href="#" className='text-muted' style={{textDecoration:"none"}}>Contact</a><br />
-                    <a href="#" className='text-muted' style={{textDecoration:"none"}}>Support portal</a><br />
-                    <a href="#" className='text-muted' style={{textDecoration:"none"}}>Z-Connect blog</a><br />
-                    <a href="#" className='text-muted' style={{textDecoration:"none"}}>List of charges</a><br />
-                    <a href="#" className='text-muted' style={{textDecoration:"none"}}>Download & resources</a><br />
+                    <button className='text-muted btn-a' style={{textDecoration:"none"}}>Contact</button><br />
+                    <button className='text-muted btn-a' style={{textDecoration:"none"}}>Support portal</button><br />
+                    <button className='text-muted btn-a' style={{textDecoration:"none"}}>Z-Connect blog</button><br />
+                    <button className='text-muted btn-a' style={{textDecoration:"none"}}>List of charges</button><br />
+                    <button className='text-muted btn-a' style={{textDecoration:"none"}}>Download & resources</button><br />
                 </div>
 
 
                 <div className="col">
                     <p>Account</p>
-                    <a href="" className='text-muted' style={{textDecoration:"none"}}>Open an account</a><br />
-                    <a href="" className='text-muted' style={{textDecoration:"none"}}>Fund tranfer</a><br />
-                    <a href="" className='text-muted' style={{textDecoration:"none"}}>60 day challenge</a><br />
+                    <button className='text-muted btn-a' style={{textDecoration:"none"}}>Open an account</button><br />
+                    <button className='text-muted btn-a' style={{textDecoration:"none"}}>Fund tranfer</button><br />
+                    <button className='text-muted btn-a' style={{textDecoration:"none"}}>60 day challenge</button><br />
                 </div>
             </div>
 
