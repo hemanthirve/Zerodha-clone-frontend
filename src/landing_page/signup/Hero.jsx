@@ -19,7 +19,7 @@ const Hero = () => {
             <p className="text-muted fw-semibold">Or track your existing application</p>
             <input type="text" placeholder="Enter your mobile number" className="px-5 py-2 w-75"/><br />
            <button className="text-while btn btn-primary w-75 px-5 mt-3">Get OTP</button>
-           <p className="mt-3">By proceeding, you agree to the Zerodha <a href="#" className="text-decoration-none">terms</a> & <a href="#" className="text-decoration-none">privacy policy</a></p>
+           <p className="mt-3">By proceeding, you agree to the Zerodha <button className="btn-a">terms</button> & <button className="btn-a">privacy policy</button></p>
         </div>
       </div>
     </div>

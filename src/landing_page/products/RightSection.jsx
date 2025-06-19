@@ -14,7 +14,7 @@ function RightSection({
                     <a href={learnMore} style={{textDecoration:"none"}}><b>Learn More <i className='fa fa-long-arrow-right'></i></b></a>
                 </div>
                 <div className="col-6">
-                    <img src={imageURl}  />
+                    <img src={imageURl}  alt='img' />
                 </div>
             </div>
         </div>
