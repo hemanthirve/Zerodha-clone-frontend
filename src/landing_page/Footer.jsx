@@ -10,31 +10,31 @@ function Footer() {
                 </div>
                 <div className="col">
                     <p>Company</p>
-                    <a href="/About" className='text-muted' style={{textDecoration:"none"}}>About</a><br />
-                    <a href="/Products" className='text-muted' style={{textDecoration:"none"}}>Products</a><br />
-                    <a href="/Pricing" className='text-muted' style={{textDecoration:"none"}}>Pricing</a><br />
-                    <a href="/Referral-programme" className='text-muted' style={{textDecoration:"none"}}>Referral programme</a><br />
-                    <a href="/Careers" className='text-muted' style={{textDecoration:"none"}}>Careers</a><br />
-                    <a href="/Zerodha.tech" className='text-muted' style={{textDecoration:"none"}}>Zerodha.tech</a> <br />
-                    <a href="/Press&media" className='text-muted' style={{textDecoration:"none"}}>Press & media </a><br />
-                   <a href="/Zerodha-cares-(CSR)" className='text-muted' style={{textDecoration:"none"}}> Zerodha cares (CSR)</a><br />
+                    <a href="" className='text-muted' style={{textDecoration:"none"}}>About</a><br />
+                    <a href="" className='text-muted' style={{textDecoration:"none"}}>Products</a><br />
+                    <a href="" className='text-muted' style={{textDecoration:"none"}}>Pricing</a><br />
+                    <a href="" className='text-muted' style={{textDecoration:"none"}}>Referral programme</a><br />
+                    <a href="" className='text-muted' style={{textDecoration:"none"}}>Careers</a><br />
+                    <a href="" className='text-muted' style={{textDecoration:"none"}}>Zerodha.tech</a> <br />
+                    <a href="" className='text-muted' style={{textDecoration:"none"}}>Press & media </a><br />
+                   <a href="" className='text-muted' style={{textDecoration:"none"}}> Zerodha cares (CSR)</a><br />
                 </div>
                 <div className="col">
                     <p>Support</p>
 
-                    <a href="/Contact" className='text-muted' style={{textDecoration:"none"}}>Contact</a><br />
-                    <a href="/Support-portal" className='text-muted' style={{textDecoration:"none"}}>Support portal</a><br />
-                    <a href="/Z-Connect-blog" className='text-muted' style={{textDecoration:"none"}}>Z-Connect blog</a><br />
-                    <a href="/List-of-charges" className='text-muted' style={{textDecoration:"none"}}>List of charges</a><br />
-                    <a href="/Download&resources" className='text-muted' style={{textDecoration:"none"}}>Download & resources</a><br />
+                    <a href="" className='text-muted' style={{textDecoration:"none"}}>Contact</a><br />
+                    <a href="" className='text-muted' style={{textDecoration:"none"}}>Support portal</a><br />
+                    <a href="" className='text-muted' style={{textDecoration:"none"}}>Z-Connect blog</a><br />
+                    <a href="" className='text-muted' style={{textDecoration:"none"}}>List of charges</a><br />
+                    <a href="" className='text-muted' style={{textDecoration:"none"}}>Download & resources</a><br />
                 </div>
 
 
                 <div className="col">
                     <p>Account</p>
-                    <a href="Open-an-account" className='text-muted' style={{textDecoration:"none"}}>Open an account</a><br />
-                    <a href="/Fund-tranfer" className='text-muted' style={{textDecoration:"none"}}>Fund tranfer</a><br />
-                    <a href="/60-day-challenge" className='text-muted' style={{textDecoration:"none"}}>60 day challenge</a><br />
+                    <a href="" className='text-muted' style={{textDecoration:"none"}}>Open an account</a><br />
+                    <a href="" className='text-muted' style={{textDecoration:"none"}}>Fund tranfer</a><br />
+                    <a href="" className='text-muted' style={{textDecoration:"none"}}>60 day challenge</a><br />
                 </div>
             </div>
 
